@@ -1,6 +1,6 @@
-pages\package-info.class
-pages\ThankyouPage.class
-pages\Checkout.class
 pages\LoginPage.class
 pages\CartPage.class
 pages\HomePage.class
+pages\package-info.class
+pages\ThankyouPage.class
+pages\Checkout.class
